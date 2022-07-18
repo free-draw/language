@@ -143,6 +143,7 @@
 		"navigation.popout.button.startDrawing": "Start drawing!",
 		"navigation.popout.button.saveFiles": "Save Files",
 		"navigation.popout.button.rules": "Rules",
+		"navigation.popout.button.preferences": "Preferences",
 		"navigation.popout.button.premium": "Roblox Premium",
 
 		"votekick.kickMessage": "You've been vote-kicked from this server. You'll be able to rejoin in ${minutes}m ${seconds}s.",
@@ -219,6 +220,8 @@
 		"claim.toast.error.rateLimited": "You're making claims too fast. Please slow down.",
 		"claim.toast.deleteClaim": "Deleted claim",
 
+		"preferences.notice.primary": "Not yet implemented",
+		"preferences.notice.secondary": "Check back later for updates",
 		"preferences.navigator.tooltip.general": "General",
 		"preferences.navigator.tooltip.keybinds": "Keybinds",
 		"preferences.navigator.tooltip.experimental": "Experimental",
