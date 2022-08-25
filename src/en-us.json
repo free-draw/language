@@ -54,6 +54,7 @@
 		"toolbox.claim.actions.deleteClaim": "Delete Claim",
 
 		"saveFiles.list.createSaveFile": "Create",
+		"saveFiles.list.search.placeholder": "Search",
 		"saveFiles.list.contextMenu.save": "Save",
 		"saveFiles.list.contextMenu.load": "Load",
 		"saveFiles.list.contextMenu.versionHistory": "Version History",
