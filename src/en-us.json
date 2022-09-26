@@ -223,9 +223,10 @@
 
 		"preferences.notice.primary": "Not yet implemented",
 		"preferences.notice.secondary": "Check back later for updates",
-		"preferences.navigator.tooltip.general": "General",
-		"preferences.navigator.tooltip.keybinds": "Keybinds",
-		"preferences.navigator.tooltip.experimental": "Experimental",
-		"preferences.navigator.tooltip.information": "Information"
+		"preferences.section.general.name": "General",
+		"preferences.section.interface.name": "Interface",
+		"preferences.section.keys.name": "Keys",
+		"preferences.section.experimental.name": "Experimental",
+		"preferences.section.information.name": "Information"
 	}
 }
