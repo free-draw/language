@@ -205,11 +205,12 @@
 
 		"rules.title": "Rules",
 		"rules.description": "Please read the rules before playing.",
-		"rules.rule.communityStandards": "Everything must abide by the <b>Roblox Community Standards</b>.",
-		"rules.rule.communityStandards.hint": "https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards",
-		"rules.rule.griefing": "Don't touch others' art without their permission.",
-		"rules.rule.scribbling": "Don't make a mess all over the canvas — scribbling is rather unpleasant for others.",
-		"rules.rule.socialBehavior": "Be nice to others.",
+		"rules.rule.inappropriateContent": "No <b>inappropriate content</b> — including explicit content, nudity, blood, profanity and in some cases, bikinis.",
+		"rules.rule.hateSpeech": "No <b>hate speech</b> — such as derogatory terms, slurs and insensitive comments.",
+		"rules.rule.controversialTopics": "No <b>controversial topics</b> — such as politics and tragic events.",
+		"rules.rule.griefing": "No <b>griefing</b> — scribbling excessively or drawing on someone's art piece can get you in trouble!",
+		"rules.rule.toxicity": "No <b>toxicity</b> — harassing others, being rude or instigating drama could get you removed from Free Draw.",
+		"rules.notice": "For the full guidelines, please review the <b>Roblox Community Rules</b>.",
 		"rules.button.confirm": "I've read the rules",
 
 		"claim.error.tooSmall": "Too small",
