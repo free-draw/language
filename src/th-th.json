@@ -187,11 +187,6 @@
 
 		"rules.title": "กฎของเกม",
 		"rules.description": "โปรดอ่านกฎของเกมก่อนเล่น",
-		"rules.rule.communityStandards": "ทุกอย่างจะต้องทำตาม <b>กฎแนวทางปฏิบัติชุมชนของโรบล็อกซ์</b>",
-		"rules.rule.communityStandards.hint": "https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards",
-		"rules.rule.griefing": "อย่าวาดโดน/ทับภาพวาดของผู้อื่นโดยไม่ได้รับอนุญาต",
-		"rules.rule.scribbling": "อย่าวาดเละเทะบนพื้น - เป็นการรบกวนผู้อื่นและทำให้ผู้อื่นไม่พึงพอใจ",
-		"rules.rule.socialBehavior": "ทำตัวให้มีมารยาทที่ดี",
 		"rules.button.confirm": "ฉันได้อ่านกฎของเกมแล้ว"
 	}
 }

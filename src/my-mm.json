@@ -187,11 +187,6 @@
 
 		"rules.title": "စည်းကမ်းများ",
 		"rules.description": "မကစားခင်စည်းကမ်းများကိုဖတ်ပါ။",
-		"rules.rule.communityStandards": "သင်သည် <b>Roblox Community</b> ၏ b>စည်းကမ်း</b>ကိုလိုက်နာရမည်။",
-		"rules.rule.communityStandards.hint": "https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards",
-		"rules.rule.griefing": "ခွင့်ပြုချက်မတောင်းဘဲ အခြားသူများ၏ပုံပေါ်မှာမဆွဲပါနှင့်။",
-		"rules.rule.scribbling": "ကြမ်းပြင်ပေါ်တွင်လျှောက်ဆွဲကာမဖျက်ဆီးပါနှင့် - လျှောက်ခြစ်ဆွဲခြင်းသည်အခြားသူများအတွက်မနှစ်မြို့ဖွယ်ဖြစ်သည်။",
-		"rules.rule.socialBehavior": "အခြားသူများကိုကောင်းစွာဆက်ဆံပါ။",
 		"rules.button.confirm": "စည်းကမ်းတွေကိုဖတ်ပြီးပါသည်။"
 	}
 }

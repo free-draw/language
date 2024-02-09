@@ -208,12 +208,10 @@
 
 		"rules.title": "Rules",
 		"rules.description": "Please read the rules before playing.",
-		"rules.rule.inappropriateContent": "No <b>inappropriate content</b> — including explicit content, nudity, blood, profanity and in some cases, bikinis.",
-		"rules.rule.hateSpeech": "No <b>hate speech</b> — such as derogatory terms, slurs and insensitive comments.",
-		"rules.rule.controversialTopics": "No <b>controversial topics</b> — such as politics and tragic events.",
-		"rules.rule.griefing": "No <b>griefing</b> — scribbling excessively or drawing on someone's art piece can get you in trouble!",
-		"rules.rule.toxicity": "No <b>toxicity</b> — harassing others, being rude or instigating drama could get you removed from Free Draw.",
-		"rules.notice": "For the full guidelines, please review the <b>Roblox Community Rules</b>.",
+		"rules.rule.contentSuitability": "All content <b>must be appropriate for Roblox</b>. This includes <i>but is not limited to</i> hate speech, profanity, inappropriate content, and controversial topics.",
+		"rules.rule.griefing": "No <b>Griefing</b> — Don't touch other people's art without their permission.",
+		"rules.rule.scribbling": "No <b>Scribbling</b> — Refrain from excessively scribbling over the canvas.",
+		"rules.rule.toxicity": "No <b>Toxicity</b> — Be nice to others.",
 		"rules.button.confirm": "I've read the rules",
 
 		"claim.error.tooSmall": "Too small",

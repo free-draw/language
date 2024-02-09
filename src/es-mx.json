@@ -187,11 +187,6 @@
 
 		"rules.title": "Reglas",
 		"rules.description": "Por favor, lee las reglas antes de comenzar a jugar.",
-		"rules.rule.communityStandards": "Todo debe obedecer las <b>normas de la comunidad de Roblox</b>.",
-		"rules.rule.communityStandards.hint": "https://en.help.roblox.com/hc/es/articles/203313410-Normas-de-la-comunidad-de-Roblox",
-		"rules.rule.griefing": "No toques el arte de otros sin su permiso.",
-		"rules.rule.scribbling": "No hagas garabatos en el lienzo - los garabatos son bastante desagradables para los demás.",
-		"rules.rule.socialBehavior": "Ser amable con los demás.",
 		"rules.button.confirm": "He leído las reglas"
 	}
 }

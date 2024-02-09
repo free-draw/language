@@ -187,11 +187,6 @@
 
 		"rules.title": "Правила",
 		"rules.description": "Просим прочитать правила, перед тем как преступить к игре.",
-		"rules.rule.communityStandards": "Все нарисованное должно следовать <b>Стандартам сообщества Роблокс</b>.",
-		"rules.rule.communityStandards.hint": "https://en.help.roblox.com/hc/ru/articles/203312500-Правила-пользователя",
-		"rules.rule.griefing": "Не трогайте рисунки других игроков без их разрешения.",
-		"rules.rule.scribbling": "Не устраивайте беспорядок на общем холсте — никому не нравятся каракули.",
-		"rules.rule.socialBehavior": "Будь добры к другим игрокам.",
 		"rules.button.confirm": "Я прочитал(а) правила."
 	}
 }

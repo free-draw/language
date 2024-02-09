@@ -194,11 +194,6 @@
 
 		"rules.title": "Mga Patakaran",
 		"rules.description": "Nakikiusap po kami na basahin ang aming patakaran bago maglaro.",
-		"rules.rule.communityStandards": "Lahat ng ginagawa mo, ang lahat ng drawing mo, sumusonod sa <b>Roblox Community Standards</b>.",
-		"rules.rule.communityStandards.hint": "https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards",
-		"rules.rule.griefing": "Huwag mong galawin ang drawing ng iabng tao nang walang paghihintulot nila.",
-		"rules.rule.scribbling": "Huwag gumawa ng kalat sa buong canvas.",
-		"rules.rule.socialBehavior": "Maging marespeto, at mabait sa ibang manlalaro.",
 		"rules.button.confirm": "Nabasa ko na lahat ng patakaran!"
 	}
 }
