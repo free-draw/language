@@ -11,6 +11,9 @@
 	"strings": {
 		"date": "${date.FormatLocalTime(date, format, \"en-us\")}",
 
+		"topbar.button.screenshot.caption": "Screenshot Mode",
+		"topbar.button.playerList.caption": "Player List",
+
 		"options.picker.label.thickness": "Thickness",
 		"options.picker.label.transparency": "Transparency",
 		"options.color.manual.rgb": "RGB",
