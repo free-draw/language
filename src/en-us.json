@@ -13,6 +13,7 @@
 
 		"topbar.button.screenshot.caption": "Screenshot Mode",
 		"topbar.button.playerList.caption": "Player List",
+		"topbar.button.cmdr.caption": "Cmdr",
 
 		"options.picker.label.thickness": "Thickness",
 		"options.picker.label.transparency": "Transparency",
