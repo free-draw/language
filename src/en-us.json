@@ -21,6 +21,9 @@
 		"options.color.manual.hsv": "HSV",
 		"options.color.manual.hex": "Hex",
 
+		"camera.key.rotate": "Rotate",
+		"camera.key.fine": "Fine",
+
 		"toolbar.tooltip.robloxPremium": "Roblox Premium",
 		"toolbar.tooltip.undo": "Undo",
 		"toolbar.tooltip.redo": "Redo",
