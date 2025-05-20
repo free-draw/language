@@ -182,6 +182,7 @@
 		"votekick.dialog.votekick.embed.reason.placeholder": "Reason",
 		"votekick.dialog.votekick.button.cancel": "Cancel",
 		"votekick.dialog.votekick.button.votekick": "Votekick",
+		"votekick.toast.notEnoughHours": "You must have <b>${hours} hours</b> in Free Draw to start a vote to kick other players.",
 		"votekick.reason.scribbling": "Scribbling",
 		"votekick.reason.griefing": "Griefing",
 		"votekick.reason.hateSpeech": "Hate Speech",
